@@ -1,0 +1,15 @@
+{
+    "name": "mobius/innews",
+    "description": "InWilmington Newsletter",
+    "require": {
+        "slim/slim": "2.*",
+        "illuminate/database": "*"
+    },
+    "authors": [
+        {
+            "name": "Jeremy Proffitt",
+            "email": "jeremy@mobiusnm.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
